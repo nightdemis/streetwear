@@ -1,0 +1,46 @@
+.wrap {
+	&__sliders {
+		width: 50%;
+		align-self: center;
+		min-height: 100%;
+		// height: 100%;
+
+		// display: flex;
+		// flex-direction: column;
+		// height: 100%;
+		// width: 100%;
+		// justify-content: center;
+		// align-items: center;
+	}
+}
+.sliders {
+	&__slider {
+		// -webkit-overflow-scrolling: touch;
+		// white-space: nowrap;
+	}
+}
+.slider {
+	&__item {
+		// display: inline-block; /* чтобы все слайды отображались в одну линию */
+		// margin-right: 20px; /* отступ между слайдами */
+		// vertical-align: top; /* чтобы картинки были выровнены по верхнему краю */
+		padding: 0 10px;
+		// min-height: 50%;
+		width: 100%;
+		height: 80vh;
+		// min-height: calc(50vh - 100px); /* 50% высоты экрана минус высота заголовка и кнопки */
+		// overflow: hidden; /* чтобы обрезать лишнее содержимое */
+	}
+}
+.item {
+	&__image {
+		object-fit: contain; /* чтобы сохранить пропорции картинки и заполнить максимально возможную площадь */
+		max-height: 80vh; /* чтобы картинка не выходила за границы блока */
+		width: 100%; /* чтобы картинка занимала всю доступную ширину */
+	}
+}
+
+// @media (max-width: 991.98px) {
+// 	.slick-prev.slick-arrow {
+// 	}
+// }
