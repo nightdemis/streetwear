@@ -45,7 +45,7 @@ const data = [
 		Уход: 
 		Стирать при 30 градусах и наизнанку`,
 
-		link: 'https://vk.com/nightdemis?w=product-220079627_8276645',
+		link: 'https://vk.com/nightdemis?w=product-220079627_8276815',
 		sizes: './img/logo.jpg',
 		images: [
 			'../img/category1/5.webp',
@@ -70,7 +70,7 @@ const data = [
 		descriptionThree:`
 		Уход: 
 		Стирать при 30 градусах и наизнанку`,
-		link: 'https://vk.com/nightdemis?w=product-220079627_8276645',
+		link: 'https://vk.com/market-220079627?screen=group&w=product-220079627_8276977%2Fquery',
 		sizes: './img/logo.jpg',
 		images: [
 			'../img/category1/8.webp',
@@ -97,7 +97,7 @@ const data = [
 		descriptionThree:`
 		Уход: 
 		Стирать при 30 градусах и наизнанку`,
-		link: 'https://vk.com/nightdemis?w=product-220079627_8276645',
+		link: 'https://vk.com/market-220079627?screen=group&w=product-220079627_8276902%2Fquery',
 		sizes: './img/logo.jpg',
 		images: [
 			'../img/category1/12.webp',
